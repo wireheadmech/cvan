@@ -9,7 +9,7 @@ profilepic: "./img/me.jpg"
 www: "wireheadmechanist.com"
 email: "wirehead@wireheadmechanist.com""
 github: wireheadmech
-linkedin: bryanjenks
+linkedin: wireheadmechanist
 orcid: 0000-0002-9604-3069
 date: "`r format(Sys.time(), '%B %Y')`"
 headcolor: 990000
